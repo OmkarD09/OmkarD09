@@ -1,5 +1,22 @@
-# 💫 About Me:
-👋 Hi, I'm Omkar<br>💻 MERN Stack Developer - Building full-stack web applications<br>🧠 Currently Learning - Data Structures & Algorithms<br>🤖 Next Goal - Diving into Artificial Intelligence & Machine Learning<br>🚀 Always - Exploring new technologies and solving problems<br>📫 Let's Connect - omkardhakane101@gmail.com
+<div id="Head" align="center">
+   <span><strong>Hi There!</strong></span>
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;  <br/>
+</div>
+
+<h1>I'm Omkar</h1>
+
+&nbsp;![](https://komarev.com/ghpvc/?username=OmkarD09&color=brightgreen) <br/>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px"/>
+
+<h2> 💫 About Me: </h2>
+👋 Hi, I'm Omkar<br><br>
+💻 MERN Stack Developer - Building full-stack web applications<br><br>
+🧠 Currently Learning - Data Structures & Algorithms<br><br>
+🤖 Next Goal - Diving into Artificial Intelligence & Machine Learning<br><br>
+🚀 Always - Exploring new technologies and solving problems<br><br>
+📫 Let's Connect - omkardhakane101@gmail.com
+
 
 
 ## 🌐 Socials:
