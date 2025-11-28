@@ -17,6 +17,20 @@
 🚀 Always - Exploring new technologies and solving problems<br><br>
 📫 Let's Connect - omkardhakane101@gmail.com
 
+## 🚀 Projects:
+
+### 🎵 Spotify Clone
+A fully functional music streaming application clone built with modern web technologies.
+- **Live Demo:** [spotify-ten-alpha.vercel.app](https://spotify-ten-alpha.vercel.app/)
+- **Note:** Login with any username/password to explore the app
+
+### 🏨 WanderLust - Resort Booking Website
+A comprehensive resort booking platform currently under development.
+- **Status:** 🚧 On Going
+- **Features:** [Add key features - e.g., Property listings, Booking system, User authentication, etc.]
+
+---
+
 
 
 ## 🌐 Socials:
