@@ -13,7 +13,7 @@
 👋 Hi, I'm Omkar<br><br>
 💻 MERN Stack Developer - Building full-stack web applications<br><br>
 🧠 Currently Learning - Data Structures & Algorithms<br><br>
-🤖 Next Goal - Diving into Artificial Intelligence & Machine Learning<br><br>
+🤖 Next Goal - Diving into Artificial Intelligence <br><br>
 🚀 Always - Exploring new technologies and solving problems<br><br>
 📫 Let's Connect - omkardhakane101@gmail.com
 
