@@ -25,7 +25,8 @@ A fully functional music streaming application clone built with modern web techn
 - **Note:** Login with any username/password to explore the app
 
 ### 🏨 WanderLust - Resort Booking Website
-A comprehensive resort booking platform currently under development.
+A comprehensive resort booking platform
+
 - **Live Demo:** https://wanderlust-h8zw.onrender.com/listings
 - **Features:** [Add key features - e.g., Property listings, Booking system, User authentication, etc.]
 
