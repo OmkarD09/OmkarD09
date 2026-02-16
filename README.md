@@ -19,6 +19,11 @@
 
 ## 🚀 Projects:
 
+### 🔍 JanTrack Mumbai
+Platform A digital report card platform empowering Mumbai citizens with verified candidate data.
+- **Live Demo:** https://jantrack-mumbai.vercel.app
+- **Features:** [ Trusted candidate profiles, Performance tracking & promise monitoring, Side-by-side comparison tool, AI-powered civic assistant (Jan Sahayak), Geolocated issue reporting system, Ward-level analytics & fund utilization dashboards.]
+
 ### 🎵 Spotify Clone
 A fully functional music streaming application clone built with modern web technologies.
 - **Live Demo:** [spotify-ten-alpha.vercel.app](https://spotify-ten-alpha.vercel.app/)
@@ -29,6 +34,9 @@ A comprehensive resort booking platform
 
 - **Live Demo:** https://wanderlust-h8zw.onrender.com/listings
 - **Features:** [Add key features - e.g., Property listings, Booking system, User authentication, etc.]
+
+
+
 
 ---
 
