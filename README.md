@@ -1,59 +1,111 @@
-<div id="Head" align="center">
-   <span><strong>Hi There!</strong></span>
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;  <br/>
+<div align="center">
+
+# 👋 Hey, I'm Omkar
+
+### Full-Stack Developer · AI Explorer · Problem Solver
+
+<a href="https://github.com/OmkarD09">
+  <img src="https://komarev.com/ghpvc/?username=OmkarD09&style=flat-square&color=0e75b6" alt="Profile views" />
+</a>
+
+<br/>
+<br/>
+
+> I build practical products with modern web technologies and I'm currently going deeper into **AI, intelligent applications, and software engineering**.
+
 </div>
 
-<h1>I'm Omkar</h1>
+---
 
-&nbsp;![](https://komarev.com/ghpvc/?username=OmkarD09&color=brightgreen) <br/>
+## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px"/>
+- 💻 **Full-Stack Developer** focused on building real-world web applications
+- 🤖 Exploring **Artificial Intelligence, LLMs, and AI-powered products**
+- 🧠 Strengthening my foundations in **Data Structures & Algorithms**
+- ⚙️ Interested in turning ideas into **usable, production-oriented software**
+- 🎨 I also work with **Figma** for UI/UX and product design
+- 📚 Always learning, experimenting, and improving
 
-<h2> 💫 About Me: </h2>
-👋 Hi, I'm Omkar<br><br>
-💻 MERN Stack Developer - Building full-stack web applications<br><br>
-🧠 Currently Learning - Data Structures & Algorithms<br><br>
-🤖 Next Goal - Diving into Artificial Intelligence <br><br>
-🚀 Always - Exploring new technologies and solving problems<br><br>
-📫 Let's Connect - omkardhakane101@gmail.com
+---
 
-## 🚀 Projects:
+## 🌟 Featured Projects
 
-### 🔍 JanTrack Mumbai
-Platform A digital report card platform empowering Mumbai citizens with verified candidate data.
-- **Live Demo:** https://jantrack-mumbai.vercel.app
-- **Features:** [ Trusted candidate profiles, Performance tracking & promise monitoring, Side-by-side comparison tool, AI-powered civic assistant (Jan Sahayak), Geolocated issue reporting system, Ward-level analytics & fund utilization dashboards.]
+### 🩺 SwasthyaVaani — AI Clinical Intake Assistant
+An AI-assisted clinical case-taking system designed to collect structured patient information through a guided conversational workflow.
+
+**Focus:** AI-assisted intake · Structured clinical data · Safety-oriented workflows · Modern web stack
+
+### 🏛️ JanTrack Mumbai
+A civic-tech platform focused on making candidate information, performance tracking, public promises, and ward-level insights easier for citizens to explore.
+
+**Highlights:** Candidate profiles · Promise tracking · Candidate comparison · AI civic assistant · Geolocated issue reporting · Ward analytics
+
+🔗 **Live:** https://jantrack-mumbai.vercel.app
 
 ### 🎵 Spotify Clone
-A fully functional music streaming application clone built with modern web technologies.
-- **Live Demo:** [spotify-ten-alpha.vercel.app](https://spotify-ten-alpha.vercel.app/)
-- **Note:** Login with any username/password to explore the app
+A full-stack music streaming application inspired by Spotify, built to practice modern frontend development, authentication, and application architecture.
 
-### 🏨 WanderLust - Resort Booking Website
-A comprehensive resort booking platform
+🔗 **Live:** https://spotify-ten-alpha.vercel.app/
 
-- **Live Demo:** https://wanderlust-h8zw.onrender.com/listings
-- **Features:** [Add key features - e.g., Property listings, Booking system, User authentication, etc.]
+### 🏨 WanderLust
+A resort and property booking platform with listing and booking-oriented functionality.
 
-
-
+🔗 **Live:** https://wanderlust-h8zw.onrender.com/listings
 
 ---
 
+## 🛠️ Tech Stack
 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omkar_dx20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkardhakane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OmkarD09) 
+### Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=OmkarD09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OmkarD09&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarD09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OmkarD09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkardhakane)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OmkarD09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/omkar_dx20)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omkardhakane101@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OmkarD09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarD09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=OmkarD09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Ship. Repeat.
+
+</div>
