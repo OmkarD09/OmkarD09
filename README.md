@@ -13,11 +13,17 @@
 👋 Hi, I'm Omkar<br><br>
 💻 MERN Stack Developer - Building full-stack web applications<br><br>
 🧠 Currently Learning - Data Structures & Algorithms<br><br>
-🤖 Next Goal - Diving into Artificial Intelligence <br><br>
+🤖 Exploring Artificial Intelligence, LLMs, and AI-powered products<br><br>
+⚙️ Interested in turning ideas into usable, production-oriented software<br><br>
 🚀 Always - Exploring new technologies and solving problems<br><br>
 📫 Let's Connect - omkardhakane101@gmail.com
 
 ## 🚀 Projects:
+
+### 🩺 SwasthyaVaani — AI Clinical Intake Assistant
+An AI-assisted clinical case-taking system designed to collect structured patient information through a guided conversational workflow.
+Focus: AI-assisted intake · Structured clinical data · Safety-oriented workflows · Modern web stack
+- **Live Demo:** https://https://swasthya-vaani-azure.vercel.app/
 
 ### 🔍 JanTrack Mumbai
 Platform A digital report card platform empowering Mumbai citizens with verified candidate data.
@@ -49,11 +55,21 @@ A comprehensive resort booking platform
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=OmkarD09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OmkarD09&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarD09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=OmkarD09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmkarD09&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+💡 Build. Learn. Ship. Repeat.
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
